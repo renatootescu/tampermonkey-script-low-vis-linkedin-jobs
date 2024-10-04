@@ -3,7 +3,7 @@ Tampermonkey script to hide "promoted"  jobs when browsing Linkedin Jobs
 
 ## PROBLEM
 
-Linkedin Job Search is flooded with Promoted jobs. These jobs appear in search result and many times are not relevant to the search terms.
+Linkedin Job Search shows jobs already viewed/saved together with new jobs. These jobs appear in search result and are redundant.
 
 ## SOLUTION
 
