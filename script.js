@@ -28,7 +28,7 @@
 
     var intervalId = window.setInterval(function(){
         hideViewedJobs();
-    }, 5000);
+    }, 2000);
 
 
 })();
