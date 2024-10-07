@@ -1,4 +1,4 @@
-# script-hide-promoted-linkedin
+# script-hide-viewed-saved-linkedin
 Tampermonkey script to hide "viewed/saved" jobs when browsing Linkedin Jobs
 
 ## PROBLEM
