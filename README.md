@@ -1,9 +1,9 @@
 # script-hide-promoted-linkedin
-Tampermonkey script to hide "promoted"  jobs when browsing Linkedin Jobs
+Tampermonkey script to hide "viewed/saved" jobs when browsing Linkedin Jobs
 
 ## PROBLEM
 
-Linkedin Job Search shows jobs already viewed/saved together with new jobs. These jobs appear in search result and are redundant.
+Linkedin Job Search shows jobs already viewed/saved together with new jobs. These jobs should have a lower visibility as they have already been seen.
 
 ## SOLUTION
 
