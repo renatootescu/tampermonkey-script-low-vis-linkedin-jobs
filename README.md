@@ -1,5 +1,5 @@
-# script-hide-viewed-saved-linkedin
-Tampermonkey script to hide "viewed/saved" jobs when browsing Linkedin Jobs
+# Lower visibility for viewed and saved
+Tampermonkey script to lower the visibility "viewed/saved" jobs when browsing Linkedin Jobs
 
 ## PROBLEM
 
