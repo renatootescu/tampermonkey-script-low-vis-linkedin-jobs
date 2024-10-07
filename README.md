@@ -7,7 +7,7 @@ Linkedin Job Search shows jobs already viewed/saved together with new jobs. Thes
 
 ## SOLUTION
 
-A Tampermonkey script that runs every 2s and changes the opacity of the job cards where the footer text equals "promoted".
+A Tampermonkey script that runs every 2s and changes the opacity of the job cards where the footer text equals "viewed/saved" (the image examples bellow are for "promoted").
 
 ![Opacity 0.2 for "Promoted"](/assets/03_Example_of_Linkedin_job.jpg)
 
